@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>589937417953-0ie2irrt8mhf0lurf2s0ukse8d8dpvig.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.589937417953-0ie2irrt8mhf0lurf2s0ukse8d8dpvig</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDVCbTYHJEjz_gjejxloKu3Z36_7TQWABs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>589937417953</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>studio.kapi.homeAI.ios</string>
+	<key>PROJECT_ID</key>
+	<string>homeai-80a73</string>
+	<key>STORAGE_BUCKET</key>
+	<string>homeai-80a73.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:589937417953:ios:1548741f888c40a46ae1a0</string>
+	<key>DATABASE_URL</key>
+	<string>https://homeai-80a73.firebaseio.com</string>
+</dict>
+</plist>

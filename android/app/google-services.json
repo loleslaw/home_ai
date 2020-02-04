@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "589937417953",
+    "firebase_url": "https://homeai-80a73.firebaseio.com",
+    "project_id": "homeai-80a73",
+    "storage_bucket": "homeai-80a73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589937417953:android:46ebb687d96d13826ae1a0",
+        "android_client_info": {
+          "package_name": "studio.kapi.artykuly.ios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589937417953-pisms8vcg9mllflvc7dhvo7v42toifo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8fFPJmGYz-4XUGmD9sVfLdEia0XTdUQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589937417953-pisms8vcg9mllflvc7dhvo7v42toifo1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589937417953-gj63th64rcfr4b0pemdq9g12kafddj07.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "studio.kapi.artykuly.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589937417953:android:df04fe165dbc4e636ae1a0",
+        "android_client_info": {
+          "package_name": "studio.kapi.homeAI.andy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589937417953-vuhv3clthfhtq5u462eha9eaua6g2u0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "studio.kapi.homeAI.andy",
+            "certificate_hash": "3b253424d2cf414e356dbaa5176e02896047ecb5"
+          }
+        },
+        {
+          "client_id": "589937417953-pisms8vcg9mllflvc7dhvo7v42toifo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8fFPJmGYz-4XUGmD9sVfLdEia0XTdUQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589937417953-pisms8vcg9mllflvc7dhvo7v42toifo1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589937417953-gj63th64rcfr4b0pemdq9g12kafddj07.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "studio.kapi.artykuly.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

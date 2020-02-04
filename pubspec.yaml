@@ -1,0 +1,33 @@
+name: HomeAI
+description: My HomeAI MQTT client.
+version: 1.0.1+6
+# studio.kapi.homeAI.andy
+# studio.kapi.homeAI.ios
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  email_validator:
+  mqtt_client: ^5.5.4
+  flushbar:
+  firebase_auth:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.7.3"
+
+flutter_icons:
+  image_path: "assets/blue-home.png"
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/home.jpg
+  - assets/blue-home.png
